@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T21:14:01 IST" name="Default suite" finished-at="2024-06-26T21:15:17 IST" duration-ms="76660">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T21:14:01 IST" name="Default test" finished-at="2024-06-26T21:15:17 IST" duration-ms="76660">
+      <class name="Demo.OrangeHr">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:01 IST" name="setup" finished-at="2024-06-26T21:14:08 IST" duration-ms="6969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dologinwithInvalidCrdential()[pri:1, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:08 IST" name="dologinwithInvalidCrdential" finished-at="2024-06-26T21:14:12 IST" duration-ms="4293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologinwithInvalidCrdential -->
+        <test-method signature="LoginTestWithValidCredential()[pri:2, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:12 IST" name="LoginTestWithValidCredential" finished-at="2024-06-26T21:14:19 IST" duration-ms="7584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestWithValidCredential -->
+        <test-method signature="addEmployee()[pri:3, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:19 IST" name="addEmployee" finished-at="2024-06-26T21:14:34 IST" duration-ms="14625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method signature="searchemployeebyname()[pri:4, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:34 IST" name="searchemployeebyname" finished-at="2024-06-26T21:14:48 IST" duration-ms="13675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchemployeebyname -->
+        <test-method signature="ListEmployees()[pri:5, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:14:48 IST" name="ListEmployees" finished-at="2024-06-26T21:15:11 IST" duration-ms="23598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListEmployees -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Demo.OrangeHr@6fdbe764]" started-at="2024-06-26T21:15:11 IST" name="teardown" finished-at="2024-06-26T21:15:17 IST" duration-ms="5804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Demo.OrangeHr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
