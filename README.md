@@ -9,3 +9,4 @@
 + Test Automation: The Selenium framework will be utilized for automating web browsers and interacting with the OrangeHRM Demo platform. It provides a powerful set of tools for simulating user actions, validating web elements, and performing assertions.
 + Test Execution and Reporting: The Pytest framework will be employed for organizing, executing, and managing the tests. The Pytest-xdist plugin will enable parallel test execution, significantly reducing the overall test execution time. Additionally, the Pytest-html plugin will generate an HTML report summarizing the test results, making it easy to analyze and share the test outcomes.
 
+![Screenshot 2024-07-09 133808](https://github.com/TirnaSil/OrangeHRM-Selenium-Project/assets/155720609/20195f2a-f9ba-4b27-9cbd-50631b8f88e3)
